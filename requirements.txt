@@ -1,3 +1,4 @@
 pandas>=1.2
 numpy>=1.20
 seaborn>=0.12
+sklearn>=1.5
